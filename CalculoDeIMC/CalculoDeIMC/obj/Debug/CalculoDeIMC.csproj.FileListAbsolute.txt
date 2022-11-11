@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CalculoDeIMC\CalculoDeIMC\bin\Debug\CalculoDeIMC.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CalculoDeIMC\CalculoDeIMC\bin\Debug\CalculoDeIMC.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CalculoDeIMC\CalculoDeIMC\bin\Debug\CalculoDeIMC.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CalculoDeIMC\CalculoDeIMC\obj\Debug\CalculoDeIMC.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CalculoDeIMC\CalculoDeIMC\obj\Debug\CalculoDeIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CalculoDeIMC\CalculoDeIMC\obj\Debug\CalculoDeIMC.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CalculoDeIMC\CalculoDeIMC\obj\Debug\CalculoDeIMC.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CalculoDeIMC\CalculoDeIMC\obj\Debug\CalculoDeIMC.pdb

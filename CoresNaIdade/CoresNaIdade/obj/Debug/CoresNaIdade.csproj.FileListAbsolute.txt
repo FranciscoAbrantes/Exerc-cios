@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CoresNaIdade\CoresNaIdade\obj\Debug\CoresNaIdade.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CoresNaIdade\CoresNaIdade\obj\Debug\CoresNaIdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CoresNaIdade\CoresNaIdade\obj\Debug\CoresNaIdade.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CoresNaIdade\CoresNaIdade\bin\Debug\CoresNaIdade.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CoresNaIdade\CoresNaIdade\bin\Debug\CoresNaIdade.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CoresNaIdade\CoresNaIdade\bin\Debug\CoresNaIdade.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CoresNaIdade\CoresNaIdade\obj\Debug\CoresNaIdade.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\CoresNaIdade\CoresNaIdade\obj\Debug\CoresNaIdade.pdb
