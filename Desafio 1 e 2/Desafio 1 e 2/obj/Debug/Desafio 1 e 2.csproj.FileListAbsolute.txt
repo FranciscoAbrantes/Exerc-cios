@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Desafio 1 e 2\Desafio 1 e 2\obj\Debug\Desafio 1 e 2.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Desafio 1 e 2\Desafio 1 e 2\obj\Debug\Desafio 1 e 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Desafio 1 e 2\Desafio 1 e 2\obj\Debug\Desafio 1 e 2.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Desafio 1 e 2\Desafio 1 e 2\bin\Debug\Desafio 1 e 2.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Desafio 1 e 2\Desafio 1 e 2\bin\Debug\Desafio 1 e 2.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Desafio 1 e 2\Desafio 1 e 2\bin\Debug\Desafio 1 e 2.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Desafio 1 e 2\Desafio 1 e 2\obj\Debug\Desafio 1 e 2.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Desafio 1 e 2\Desafio 1 e 2\obj\Debug\Desafio 1 e 2.pdb

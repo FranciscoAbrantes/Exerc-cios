@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Números\Números\bin\Debug\Números.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Números\Números\bin\Debug\Números.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Números\Números\bin\Debug\Números.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Números\Números\obj\Debug\Números.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Números\Números\obj\Debug\Números.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Números\Números\obj\Debug\Números.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Números\Números\obj\Debug\Números.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Números\Números\obj\Debug\Números.pdb

@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Arrays\Arrays\obj\Debug\Arrays.pdb
