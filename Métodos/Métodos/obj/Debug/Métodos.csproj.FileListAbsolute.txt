@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Métodos\Métodos\bin\Debug\Métodos.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Métodos\Métodos\bin\Debug\Métodos.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Métodos\Métodos\bin\Debug\Métodos.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Métodos\Métodos\obj\Debug\Métodos.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Métodos\Métodos\obj\Debug\Métodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Métodos\Métodos\obj\Debug\Métodos.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Métodos\Métodos\obj\Debug\Métodos.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Métodos\Métodos\obj\Debug\Métodos.pdb

@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Returns\Returns\obj\Debug\Returns.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Returns\Returns\obj\Debug\Returns.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Returns\Returns\obj\Debug\Returns.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Returns\Returns\bin\Debug\Returns.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Returns\Returns\bin\Debug\Returns.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Returns\Returns\bin\Debug\Returns.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Returns\Returns\obj\Debug\Returns.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Returns\Returns\obj\Debug\Returns.pdb
