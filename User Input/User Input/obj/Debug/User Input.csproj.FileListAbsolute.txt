@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\User Input\User Input\obj\Debug\User Input.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\User Input\User Input\obj\Debug\User Input.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\User Input\User Input\obj\Debug\User Input.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\User Input\User Input\bin\Debug\User Input.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\User Input\User Input\bin\Debug\User Input.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\User Input\User Input\bin\Debug\User Input.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\User Input\User Input\obj\Debug\User Input.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\User Input\User Input\obj\Debug\User Input.pdb
