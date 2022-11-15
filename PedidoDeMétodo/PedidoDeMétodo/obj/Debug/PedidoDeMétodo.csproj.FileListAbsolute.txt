@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\PedidoDeMétodo\PedidoDeMétodo\obj\Debug\PedidoDeMétodo.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\PedidoDeMétodo\PedidoDeMétodo\obj\Debug\PedidoDeMétodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\PedidoDeMétodo\PedidoDeMétodo\obj\Debug\PedidoDeMétodo.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\PedidoDeMétodo\PedidoDeMétodo\bin\Debug\PedidoDeMétodo.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\PedidoDeMétodo\PedidoDeMétodo\bin\Debug\PedidoDeMétodo.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\PedidoDeMétodo\PedidoDeMétodo\bin\Debug\PedidoDeMétodo.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\PedidoDeMétodo\PedidoDeMétodo\obj\Debug\PedidoDeMétodo.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\PedidoDeMétodo\PedidoDeMétodo\obj\Debug\PedidoDeMétodo.pdb
