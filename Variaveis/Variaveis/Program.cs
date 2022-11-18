@@ -11,7 +11,7 @@ namespace Variaveis
         static void Main(string[] args)
         {
             // Aula 18/10/2022
-            // Sting
+            // String
             string nome = "Francisco";
             // Int
             int idade = 17;
