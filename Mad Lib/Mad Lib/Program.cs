@@ -21,7 +21,7 @@ namespace Mad_Lib
             string chicken = Console.ReadLine();
             Console.WriteLine();
             // Segunda Pergunta
-            Console.WriteLine("This is a result from a Math exercise, 24.");
+            Console.WriteLine("This is a result from a Math exercise, 14.");
             Console.WriteLine("What is easy way to get to the result with multiply?");
             Console.Write("Enter the first number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
