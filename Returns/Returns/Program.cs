@@ -12,7 +12,7 @@ namespace Returns
         {
             int cubedNumber = cube2(5);
             Console.WriteLine(cubedNumber);
-            //Console.WriteLine(cube5);
+            //Console.WriteLine(cube(5));
             Console.ReadLine();
         }
 
