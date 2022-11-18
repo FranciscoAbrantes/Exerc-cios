@@ -20,7 +20,7 @@ namespace PedidoDeMétodo
             Console.Write("Digite mais um número: ");
             int num3 = Convert.ToInt32(Console.ReadLine());
 
-            // Enviar para o Metodo
+            // Receber o resultado do Metodo
             Console.WriteLine(GetMax(num1, num2, num3));
 
             // ReadLine
