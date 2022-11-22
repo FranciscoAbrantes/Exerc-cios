@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Switch Case Or Statement\Switch Case Or Statement\bin\Debug\Switch Case Or Statement.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Switch Case Or Statement\Switch Case Or Statement\bin\Debug\Switch Case Or Statement.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Switch Case Or Statement\Switch Case Or Statement\bin\Debug\Switch Case Or Statement.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Switch Case Or Statement\Switch Case Or Statement\obj\Debug\Switch Case Or Statement.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Switch Case Or Statement\Switch Case Or Statement\obj\Debug\Switch Case Or Statement.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Switch Case Or Statement\Switch Case Or Statement\obj\Debug\Switch Case Or Statement.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Switch Case Or Statement\Switch Case Or Statement\obj\Debug\Switch Case Or Statement.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Switch Case Or Statement\Switch Case Or Statement\obj\Debug\Switch Case Or Statement.pdb
