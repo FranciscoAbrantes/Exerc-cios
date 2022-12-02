@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\WorldCup\WorldCup\obj\Debug\WorldCup.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\WorldCup\WorldCup\obj\Debug\WorldCup.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\WorldCup\WorldCup\obj\Debug\WorldCup.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\WorldCup\WorldCup\bin\Debug\WorldCup.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\WorldCup\WorldCup\bin\Debug\WorldCup.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\WorldCup\WorldCup\bin\Debug\WorldCup.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\WorldCup\WorldCup\obj\Debug\WorldCup.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\WorldCup\WorldCup\obj\Debug\WorldCup.pdb
