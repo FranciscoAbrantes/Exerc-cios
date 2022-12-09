@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Potencia\Potencia\bin\Debug\Potencia.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Potencia\Potencia\bin\Debug\Potencia.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Potencia\Potencia\bin\Debug\Potencia.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Potencia\Potencia\obj\Debug\Potencia.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Potencia\Potencia\obj\Debug\Potencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Potencia\Potencia\obj\Debug\Potencia.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Potencia\Potencia\obj\Debug\Potencia.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Potencia\Potencia\obj\Debug\Potencia.pdb
