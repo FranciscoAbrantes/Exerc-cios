@@ -1,0 +1,16 @@
+C:\Users\meffu\Desktop\anselmo de andrade\PSI1\psi1\teste copa\teste copa\obj\Debug\teste copa.csproj.AssemblyReference.cache
+C:\Users\meffu\Desktop\anselmo de andrade\PSI1\psi1\teste copa\teste copa\obj\Debug\teste copa.csproj.SuggestedBindingRedirects.cache
+C:\Users\meffu\Desktop\anselmo de andrade\PSI1\psi1\teste copa\teste copa\obj\Debug\teste copa.csproj.CoreCompileInputs.cache
+C:\Users\meffu\Desktop\anselmo de andrade\PSI1\psi1\teste copa\teste copa\bin\Debug\teste copa.exe.config
+C:\Users\meffu\Desktop\anselmo de andrade\PSI1\psi1\teste copa\teste copa\bin\Debug\teste copa.exe
+C:\Users\meffu\Desktop\anselmo de andrade\PSI1\psi1\teste copa\teste copa\bin\Debug\teste copa.pdb
+C:\Users\meffu\Desktop\anselmo de andrade\PSI1\psi1\teste copa\teste copa\obj\Debug\teste copa.exe
+C:\Users\meffu\Desktop\anselmo de andrade\PSI1\psi1\teste copa\teste copa\obj\Debug\teste copa.pdb
+C:\Users\ASUS\Desktop\teste_copa\teste copa\teste copa\bin\Debug\teste copa.exe.config
+C:\Users\ASUS\Desktop\teste_copa\teste copa\teste copa\bin\Debug\teste copa.exe
+C:\Users\ASUS\Desktop\teste_copa\teste copa\teste copa\bin\Debug\teste copa.pdb
+C:\Users\ASUS\Desktop\teste_copa\teste copa\teste copa\obj\Debug\teste copa.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\teste_copa\teste copa\teste copa\obj\Debug\teste copa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\teste_copa\teste copa\teste copa\obj\Debug\teste copa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\teste_copa\teste copa\teste copa\obj\Debug\teste copa.exe
+C:\Users\ASUS\Desktop\teste_copa\teste copa\teste copa\obj\Debug\teste copa.pdb
